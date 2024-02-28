@@ -1,6 +1,7 @@
 ﻿/* Anuthor :Rithika Kandimalla
-  Date : 02/28/2044
- This is Bubble Sort Algorithm */
+  Date : 02/28/2024
+ This is Bubble Sort Algorithm 
+Edited by Manvith*/
 
 int[] bubble_sort_numbers = {  3, 62, 5, 16, 4, 10};
  
